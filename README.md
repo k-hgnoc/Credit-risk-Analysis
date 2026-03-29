@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Execution Flow
+## Execution Flow
 
 ### Step 1: Exploratory Data Analysis
 Review `notebooks/eda.ipynb` to understand the data distribution, correlation, and the preprocessing steps taken to handle missing values and outliers.
@@ -79,7 +79,7 @@ streamlit run app/app.py
 
 ---
 
-## 🧪 Tech Stack
+## Tech Stack
 * **Language:** Python
 * **Data Processing:** Pandas, NumPy
 * **Machine Learning:** Scikit-learn (Logistic Regression, Feature Scaling)
@@ -88,7 +88,7 @@ streamlit run app/app.py
 
 ---
 
-## 📝 Maintenance
+## Maintenance
 To update the dependencies after installing new libraries:
 ```powershell
 pip freeze > requirements.txt
